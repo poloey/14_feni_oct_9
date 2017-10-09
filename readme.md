@@ -82,8 +82,9 @@ friends.splice(3, 1, 'new friend')
 friends.splice(3, 0, 'new friend 1', 'new friend 1', 'new friend 2', 'new friend 3')
 ~~~
 
-## Homework (since you will have about 5 days off day hope it will be easier for you do following.)
-* You have to complete a todo application with crud functionality as your home work (You may get help from [https://github.com/poloey/purejstodo](https://github.com/poloey/purejstodo) )
+## Homework (since you will have about 5 days off, so it will be easier for you do following.)
+* You have to complete a todo application with crud functionality as your home work (You may get help from [https://github.com/poloey/purejstodo](https://github.com/poloey/purejstodo) )    
+Here I have added two todo edition. One is basic and another is advanced. Crud functionality present in advanced todo
 * Please go through [w3Schools](http://w3schools.com) html, css, js, jquery
 
 
