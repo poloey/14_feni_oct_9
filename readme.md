@@ -3,7 +3,7 @@
 
 # always use console when working with js. Since All error will be shown in console.
 
-# jquery function 
+# Basic jquery function 
 * show(timer) 
 ~~~js
 $('p').show(2000)
@@ -40,4 +40,3 @@ $('p').fadeOut(2000)
 ~~~js
 $('p').fadeToogle(2000)
 ~~~
-i
