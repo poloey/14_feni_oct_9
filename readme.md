@@ -4,7 +4,7 @@
 # always use console when working with js. Since All error will be shown in console.
 
 # jquery function 
-i* show(timer) 
+* show(timer) 
 ~~~js
 $('p').show(2000)
 ~~~
