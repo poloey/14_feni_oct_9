@@ -82,11 +82,3 @@ friends.splice(3, 1, 'new friend')
 friends.splice(3, 0, 'new friend 1', 'new friend 1', 'new friend 2', 'new friend 3')
 ~~~
 
-
-
-
-* pop
-* unshift(value) 
-* shift
-* splice ();
-
