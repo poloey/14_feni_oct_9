@@ -40,3 +40,53 @@ $('p').fadeOut(2000)
 ~~~js
 $('p').fadeToogle(2000)
 ~~~
+
+# JavaScript Array function 
+first make a array for demonstrating array function 
+~~~js
+var friends = [
+  'sumon',
+  'sarwar',
+  'kayes',
+  'tasnia',
+  'tofaeel'
+]
+~~~
+* to add value to end of the array - push(value)
+~~~js
+friends.push('tanim');
+~~~
+
+* to remove value from end of the array - pop()
+~~~js
+friends.pop();
+~~~
+
+* to add value to begining of the array - unshift(value)
+~~~js
+friends.unshift('mosarof');
+~~~
+
+* to remove value from the begining of the array - shift()
+~~~js
+friends.shift();
+~~~
+
+
+* to add, remove value from the middle of the array - splice(index, number of item want to delete, new value)
+~~~js
+friends.splice(3)
+friends.splice(3, 1)
+friends.splice(3, 0, 'new friend')
+friends.splice(3, 1, 'new friend')
+friends.splice(3, 0, 'new friend 1', 'new friend 1', 'new friend 2', 'new friend 3')
+~~~
+
+
+
+
+* pop
+* unshift(value) 
+* shift
+* splice ();
+
