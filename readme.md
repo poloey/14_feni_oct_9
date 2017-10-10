@@ -1,5 +1,5 @@
 # Class 14 
-### View [all class list](https://github.com/poloey/feni)
+### View [all class list](https://poloey.github.io/feni/)
 
 # always use console when working with js. Since All error will be shown in console.
 
